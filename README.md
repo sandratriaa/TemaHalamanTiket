@@ -10,7 +10,7 @@ Repository ini berisi 3 bagian utama
 |---|---|
 | 📄 PDF Modul Praktikum | [`/modul/Modul_4.pdf`](modul/Modul_4.pdf) |
 | 💻 Project (Source Code) | [`/app`](app) |
-| 🖼️ Screenshot Hasil | [`/screensho0ts`](screensho0ts) |
+| 🖼️ Screenshot Hasil | [`/screenshoots`](screenshoots) |
 
 ## 📱 Tampilan Aplikasi
 
