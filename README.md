@@ -10,13 +10,13 @@ Repository ini berisi 3 bagian utama
 |---|---|
 | 📄 PDF Modul Praktikum | [`/modul/Modul_4.pdf`](modul/Modul_4.pdf) |
 | 💻 Project (Source Code) | [`/app`](app) |
-| 🖼️ Screenshot Hasil | [`/screenshots`](screenshots) |
+| 🖼️ Screenshot Hasil | [`/screensho0ts`](screensho0ts) |
 
 ## 📱 Tampilan Aplikasi
 
 | Halaman Awal | Memproses Pesanan | Pesanan Berhasil | Validasi Nama Kosong |
 |:---:|:---:|:---:|:---:|
-| ![idle](screenshots/idle.png) | ![processing](screenshots/processing.png) | ![success](screenshots/success.png) | ![error](screenshots/error.png) |
+| ![idle](screenshoots/idle.png) | ![processing](screenshoots/processing.png) | ![success](screenshoots/success.png) | ![error](screenshoots/error.png) |
 
 ## ✨ Fitur
 
